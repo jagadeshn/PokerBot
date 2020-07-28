@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Js.JPG</filename>
+	<path>C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\Js.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>94</width>
+		<height>124</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>39</ymin>
+			<xmax>34</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

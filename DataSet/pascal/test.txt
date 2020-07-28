@@ -1,0 +1,12 @@
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\6s.txt
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\7c.txt
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\7h.txt
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\7s.txt
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\8c.txt
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\8d.txt
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\8h.txt
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\8s.txt
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\9c.txt
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\9d.txt
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\9h.txt
+C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\9s.txt

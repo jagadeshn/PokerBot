@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>10d.JPG</filename>
+	<path>C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\10d.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>95</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diamond</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>42</ymin>
+			<xmax>33</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>

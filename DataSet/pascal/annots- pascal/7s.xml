@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>7s.JPG</filename>
+	<path>C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\7s.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>96</width>
+		<height>131</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>43</ymin>
+			<xmax>34</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

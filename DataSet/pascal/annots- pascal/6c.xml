@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>6c.JPG</filename>
+	<path>C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\6c.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>77</width>
+		<height>99</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>33</ymin>
+			<xmax>27</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>

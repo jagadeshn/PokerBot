@@ -1,0 +1,9 @@
+classes= 4
+
+train = C:\Users\jagadesh\Desktop\aggi\z1extra\SUITS/train.txt
+
+valid = C:\Users\jagadesh\Desktop\aggi\z1extra\SUITS/test.txt
+
+names = C:\Users\jagadesh\Desktop\aggi\z1extra\SUITS/classes.names
+
+backup = C:\Users\jagadesh\Desktop\aggi\z1extra\SUITS\backup

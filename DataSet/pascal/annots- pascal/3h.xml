@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3h.JPG</filename>
+	<path>C:\Users\jagadesh\Jupyter Projects\YOLO_CUSTOM_DATA\images\3h.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>104</width>
+		<height>135</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>46</ymin>
+			<xmax>40</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>
